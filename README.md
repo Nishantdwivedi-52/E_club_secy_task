@@ -1,5 +1,5 @@
 # E_club_secy_task
-
+STEPS INVOLVED 
 1. Preprocessing the Dataset
 I started by reading the list_attr_celeba.csv file, which contains attributes for each image in the CelebA datasetwhich i took from Kaggle 
 
